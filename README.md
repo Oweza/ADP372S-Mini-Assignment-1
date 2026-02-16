@@ -1,6 +1,6 @@
 # ADP372S-Mini-Assignment-1
 
-SOLID Principles Applied
+Solid Principles Applied
 
 Single Responsibility Principle (SRP)
 Each class in the system has one clear responsibility. Student defines common student properties and behaviors. Subclasses handle their own tuition logic and student-specific data. Builder classes are responsible only for object construction
